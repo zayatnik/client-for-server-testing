@@ -1,0 +1,3 @@
+﻿  Исходный код.cpp
+C:\Users\zayat\OneDrive\Desktop\рабочий сервер\клиент\Проект16\Исходный код.cpp(77,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Проект16.vcxproj -> C:\Users\zayat\OneDrive\Desktop\рабочий сервер\клиент\Debug\Проект16.exe
